@@ -1,0 +1,51 @@
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.AssemblyReference.cache
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfoInputs.cache
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfo.cs
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.CoreCompileInputs.cache
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionBussiness.deps.json
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionBussiness.dll
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionBussiness.pdb
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaG.5E9AE94B.Up2Date
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.dll
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\refint\SistemaGestionBussiness.dll
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\SistemaGestionBussiness.pdb
+D:\Programacion\Coder\13. Clase\AppClientesBussiness\obj\Debug\net6.0\ref\SistemaGestionBussiness.dll
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.deps.json
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.dll
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.pdb
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.AssemblyReference.cache
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfoInputs.cache
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfo.cs
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.CoreCompileInputs.cache
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaG.5E9AE94B.Up2Date
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.dll
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\refint\SistemaGestionBussiness.dll
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.pdb
+D:\Programacion\SistemaGestion\SistemaGestionBussiness\obj\Debug\net6.0\ref\SistemaGestionBussiness.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.deps.json
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.AssemblyReference.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfoInputs.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfo.cs
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.CoreCompileInputs.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaG.5E9AE94B.Up2Date
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\refint\SistemaGestionBussiness.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionBussiness\obj\Debug\net6.0\ref\SistemaGestionBussiness.dll

@@ -1,0 +1,45 @@
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+D:\Programacion\Coder\13. Clase\AppClientesData\bin\Debug\net6.0\SistemaGestionData.deps.json
+D:\Programacion\Coder\13. Clase\AppClientesData\bin\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\Coder\13. Clase\AppClientesData\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\Coder\13. Clase\AppClientesData\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Coder\13. Clase\AppClientesData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaG.92EE484C.Up2Date
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\Coder\13. Clase\AppClientesData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+D:\Programacion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaG.92EE484C.Up2Date
+D:\Programacion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+D:\Programacion\Sistema-Gestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaG.92EE484C.Up2Date
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll

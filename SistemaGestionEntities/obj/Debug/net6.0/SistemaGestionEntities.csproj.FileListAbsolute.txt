@@ -1,0 +1,33 @@
+D:\Programacion\Coder\13. Clase\AppClientesEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\Programacion\Coder\13. Clase\AppClientesEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Coder\13. Clase\AppClientesEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Coder\13. Clase\AppClientesEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+D:\Programacion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\Programacion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\Programacion\Sistema-Gestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
